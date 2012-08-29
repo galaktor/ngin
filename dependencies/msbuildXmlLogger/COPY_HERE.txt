@@ -1,0 +1,5 @@
+File: Kobush.Build.dll
+Version: 2.1.0.0
+
+Get it here: http://geekswithblogs.net/kobush/archive/2006/01/14/xmllogger.aspx
+Copyright (c) 2006 Szymon Kobalczyk
