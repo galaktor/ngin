@@ -1,0 +1,7 @@
+File: nunit.framework.dll
+Version: 2.5.0.9122
+
+Get it here: http://www.nunit.org/index.php
+Copyright © 2002-2008 Charlie Poole
+Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov
+Copyright © 2000-2002 Philip A. Craig

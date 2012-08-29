@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ngin.core", "ngin.core\ngin.core.csproj", "{A0F8D74B-1071-41E6-A863-87F914E3908E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ngin.core.test", "ngin.core.test\ngin.core.test.csproj", "{080F96BA-A630-4E0F-85D2-14BCBFA3347D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGin.Core.Test.Integration", "NGin.Core.Test.Integration\NGin.Core.Test.Integration.csproj", "{77D0A7B9-FBFD-4912-B153-EB53038648B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGin.Core.Test.Performance", "NGin.Core.Test.Performance\NGin.Core.Test.Performance.csproj", "{16FD0085-0E85-46F2-9263-2002B6888AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F8D74B-1071-41E6-A863-87F914E3908E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F8D74B-1071-41E6-A863-87F914E3908E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F8D74B-1071-41E6-A863-87F914E3908E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F8D74B-1071-41E6-A863-87F914E3908E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080F96BA-A630-4E0F-85D2-14BCBFA3347D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080F96BA-A630-4E0F-85D2-14BCBFA3347D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080F96BA-A630-4E0F-85D2-14BCBFA3347D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080F96BA-A630-4E0F-85D2-14BCBFA3347D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D0A7B9-FBFD-4912-B153-EB53038648B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D0A7B9-FBFD-4912-B153-EB53038648B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D0A7B9-FBFD-4912-B153-EB53038648B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D0A7B9-FBFD-4912-B153-EB53038648B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FD0085-0E85-46F2-9263-2002B6888AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FD0085-0E85-46F2-9263-2002B6888AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FD0085-0E85-46F2-9263-2002B6888AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FD0085-0E85-46F2-9263-2002B6888AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
