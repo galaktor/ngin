@@ -1,9 +1,0 @@
-File: log4net.dll
-Version: 1.2.10.0
-
-Recommeded for windows systemsm: "log4net for .NET Framework 2.0"
-Recommended for Unix/Linux systems: "log4net for Mono 2.0"
-
-Get it here: http://logging.apache.org/log4net/download.html
-Copyright (c) The Apache Software Foundation (http://www.apache.org/).
-Licensed under the Apache License, Version 2.0

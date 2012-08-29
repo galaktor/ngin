@@ -1,6 +1,0 @@
-File: Autofac.dll
-Version: 1.4.4.561
-
-Get it here: http://code.google.com/p/autofac/downloads/list
-Copyright (c) 2007-2008 Autofac Contributors
-http://code.google.com/p/autofac/wiki/Contributing

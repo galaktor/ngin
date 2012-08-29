@@ -1,5 +1,0 @@
-File: NMock2.dll
-Version: 2.0.3411.37113
-
-Get it here: http://www.nmock.org/
-Copyright (c) 2008 NMock 2 Development Team
