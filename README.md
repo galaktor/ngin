@@ -4,6 +4,7 @@ ngin
 nGin (pronounced: "engine") is a .NET based game engine. I wrote what's there as a proof-of-concept for my thesis. 
 
 The main focus was the loosely coupled architecture, the messaging system and the task scheduling.
+Looking at it now, it terrifies me - the threading, the strings, the tests...but that shows that I've grown since then :-)
 
 It's by no means complete and probably not useful to anyone without serious work. It may however be interesting to poke at or draw inspiration from or learn how not to do certain things.
 
