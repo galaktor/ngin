@@ -10,6 +10,7 @@ It's by no means complete and probably not useful to anyone without serious work
 
 The project used to be in SVN, hence the directory structure (trunk + tags). Similarly, NuGet did not exist so there's nice little TXT files pointing out which DLL's to put where in order for the build to Just Work.
 
+** UPDATE: The linked download is not the demo I thought it was. I'll try to dig it up from my old external drive and upload if I find it **
 
 I just dumped the files here for now, I cannot guarantee that it builds or that the demo runs. It sure used to when I zipped this stuff up, but you never know.
 
